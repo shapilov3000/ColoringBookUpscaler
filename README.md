@@ -1,5 +1,5 @@
 # ColoringBookUpscaler
-![img](https://yadi.sk/i/WjHO4tdYNGbtZg)
+![img](./ColoringBookUpscaler.png)
 
 Simple tool for low-resolution coloring books (or such images) upscaling.
 Uses OpenCV
