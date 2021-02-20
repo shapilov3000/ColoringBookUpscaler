@@ -352,6 +352,7 @@ void process_file(const std::filesystem::path& input_file, const std::filesystem
     }
     else
     {
+        RemoveLensMargin(param, -1, true);
         cv::imwrite(output_file.generic_string(), param.res[7]);
         std::cout << "OK\n";
         return;
